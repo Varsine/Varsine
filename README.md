@@ -37,6 +37,7 @@ I use this website as a central place to showcase my background, featured projec
 - Redux Toolkit
 - Redux-Saga
 - GraphQL
+- Supabse
 - REST API
 
 ### UI & Styling
@@ -133,12 +134,3 @@ This portfolio is designed to:
 - showcase selected real-world frontend projects
 - demonstrate my technical stack and problem-solving approach
 - make it easy for recruiters, clients, and collaborators to explore my work
-
-## Run Locally
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/Varsine/my-portfolio.git
-cd my-portfolio
-npm install
